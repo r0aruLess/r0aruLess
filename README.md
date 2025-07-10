@@ -17,7 +17,8 @@
 
 ### 🛠️ Badges <br>
 [![Cisco Certified Network Associate](https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/earner/earned/share/725c6e62-235c-4842-a72c-c209640d4529)
-[![Cisco Ethical Hacker Badge](https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/0819d154-cff2-4bdc-b758-cca327e1b6b2)
+[![Cisco Ethical Hacker Badge](https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/0819d154-cff2-4bdc-b758-cca327e1b6b2)]
+[![TryHackMe](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2469752" style='border:none;'></iframe>)
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/arohi-s/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roaworkmail@gmail.com) 
