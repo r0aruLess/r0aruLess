@@ -18,9 +18,7 @@
 ### 🛠️ Badges <br>
 [![Cisco Certified Network Associate](https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/earner/earned/share/725c6e62-235c-4842-a72c-c209640d4529)
 [![Cisco Ethical Hacker Badge](https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/0819d154-cff2-4bdc-b758-cca327e1b6b2)
-<a href="https://tryhackme.com/p/r0aneph0da" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/r0aneph0da.png" alt="TryHackMe Badge" />
-</a>
+
 
 
 ### 🌐 Socials:
