@@ -1,19 +1,58 @@
-## 💫 About Me:
-### Hi there, I'm Arohi! 👋<br><br>🎓 I’m a third-year college student <br>💼 Currently focusing on **cybersecurity** with a strong interest in **network security** and **OSINT (Open Source Intelligence)**.<br><br>
-### 🔐 What I’m Working On<br>
-- Enhancing my skills in **VAPT**, **Nessus**, **Wireshark**, **Nmap**, and **PRTG software**<br>
-- Mastering **network topologies**, **threat intelligence**, **SSL/TLS inspection**, and **IDS/IPS**<br>
-- Learning advanced concepts like **air-gapped networks**, **SDNs/SD-WANs**, **API security**, and **Maltego-based case file generation**<br><br>
-### 🌐 Interests<br> 
-- network architecture and frameworks<br>
-- Digital Forensics <br><br>
-### 🛠️ Tools & Technologies<br>
-- 🔎 **Maltego**, **Nessus**, **Wireshark**<br>
-- 📊 **PRTG**, **SSL Inspection**, **Firewall Rules**<br>
-- 🌐 **DNS Enumeration**, **ICMP debugging**, **Web Filtering**<br>
-- 💻 Languages: `Python`, `JavaScript`, `HTML/CSS`<br><br><br>
-### 🧭 Fun Fact<br>
-#### I love connecting real-world industry standards (like those of **L&T** and **HAL**) with academic learning, often comparing IT infrastructures for deeper insight.<br><br>---<br><br>
+## 👋 Hi there, I'm Arohi!
+
+🎓 **Integrated B.Tech.–M.Tech. in Computer Science Engineering (Cybersecurity)** @ National Forensic Sciences University, Delhi *(2022 – 2027)*  
+🛡️ Focusing on **IT Risk Management, GRC (Governance, Risk & Compliance), and AI Governance** for the financial sector.  
+🌏 Experience spanning **defence/government IT environments**, **digital forensics**, and **multicultural engineering teams (Japan)**.
+
+---
+
+### 🔍 Current Focus & Expertise
+
+- **Governance, Risk & Compliance (GRC):** Performing control gap analyses, building risk registers, and drafting security policies aligned with global and financial standards.
+- **AI Risk & Algorithmic Auditing:** Evaluating credit-scoring and ML models for bias, demographic parity, and regulatory compliance using **NIST AI RMF** and **ISO/IEC 42001**.
+- **Security Operations & Infrastructure:** Vulnerability remediation (**Nessus**), network monitoring (**PRTG**), firewall administration (**Sophos**), RBAC implementation, and air-gapped network segmentation.
+- **Digital Forensics & OSINT:** Infrastructure tracing, cyber-fraud investigation, and automated data-collection pipelines.
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. **GovernAI** — *Automated Compliance Screening for AI Models & Data*
+- Built an academic prototype modeled on the **Second Line of Defence** in bank model-risk management, generating JSON audit reports, hash-chained audit logs (**ISO/IEC 27001**), and a **Streamlit** dashboard.
+- Audited credit-model approval rates across protected attributes using demographic parity and the four-fifths rule (**NIST AI RMF** & **ISO/IEC 42001**).
+- Implemented automated PII/card detection, masking, **SHAP** explainability for rejected applicants, and data-minimization checks aligned with **GDPR**, **DPDP Act**, **PCI-DSS v4.0**, and **RBI Digital Lending Guidelines**.
+
+#### 2. **Enterprise AI Governance** — *Mitigating Algorithmic Bias in Banking Systems*
+- Executed a risk assessment on a simulated commercial-banking credit model using a **70% GRC / 30% Engineering** methodology governed by **COBIT 2019** and **NIST AI RMF 1.0**.
+- Uncovered a Disparate Impact Ratio failure for applicants aged 60+ (violating the 80% rule) masked behind a 97.50% overall accuracy metric.
+- Mapped controls to **COBIT 2019** objectives (`APO01`, `APO12`, `MEA02`) and authored a risk-mitigation register across NIST AI RMF functions (*Map, Measure, Manage*).
+
+---
+
+### 🛠️ Frameworks, Standards & Tech Stack
+
+**Governance, Risk & Regulatory Frameworks**
+`ISO/IEC 27001:2022` • `ISO/IEC 27005` • `ISO/IEC 42001` • `COBIT 2019` • `NIST AI RMF 1.0` • `PCI-DSS v4.0` • `GDPR` • `DPDP Act` • `RBI Digital Lending Guidelines`
+
+**Security & Forensics Tools**
+`Nessus` • `PRTG` • `Sophos Firewall` • `Wireshark` • `Nmap` • `Maltego` • `IAM / RBAC`
+
+**Languages, Backend & Data**
+`Python` • `SQL (MySQL)` • `Flask` • `FastAPI` • `Bash` • `JavaScript` • `Streamlit` • `HTML/CSS`
+
+---
+
+### 🏆 Highlights & Credentials
+
+- 🏅 **Top 50 out of 14,000 applicants** — METI AI/IT Internship Programme, Japan *(2025)*
+- 🛡️ **Network Security Intern** — Bharat Dynamics Ltd. *(Reduced open CVEs by 10% & managed air-gapped network segmentation)*
+- 📜 **Certifications:** ISO/IEC 27001:2022 Information Security Associate *(SkillFront)* | Introduction to Cybersecurity *(Cisco)* | ISC2 Certified in Cybersecurity (CC) *(In Progress)*
+- 🎯 **All India Rank 6** — National Forensic Aptitude Test, NFSU *(2022)*
+
+---
+
+### 🧭 Fun Fact
+I enjoy bridging the gap between **regulatory frameworks and real-world engineering**—comparing how high-security defense infrastructures (like **BDL** and **HAL**) and financial institutions operationalize risk and compliance.
 
 ### 🛠️ Badges <br>
 [![Cisco Certified Network Associate](https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/earner/earned/share/725c6e62-235c-4842-a72c-c209640d4529)
