@@ -35,7 +35,6 @@
 ### 🏆 Highlights & Credentials
 
 - 🏅 **Top 50 out of 14,000 applicants** — METI AI/IT Internship Programme, Japan *(2025)*
-- 🛡️ **Network Security Intern** — Bharat Dynamics Ltd. *(Reduced open CVEs by 10% & managed air-gapped network segmentation)*
 - 📜 **Certifications:** ISO/IEC 27001:2022 Information Security Associate *(SkillFront)* | Introduction to Cybersecurity *(Cisco)* | ISC2 Certified in Cybersecurity (CC) *(In Progress)*
 - 🎯 **All India Rank 6** — National Forensic Aptitude Test, NFSU *(2022)*
 
