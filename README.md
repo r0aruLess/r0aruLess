@@ -65,7 +65,13 @@ I enjoy bridging the gap between **regulatory frameworks and real-world engineer
 </p>
 
 ### 🏆 GitHub Trophies
-### ![](https://github-profile-trophy.vercel.app/?username=r0aruLess&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Arohi's GitHub Trophies" />
+  </a>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
