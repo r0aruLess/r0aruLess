@@ -14,10 +14,7 @@
 - **Digital Forensics & OSINT:** Infrastructure tracing, cyber-fraud investigation, and automated data-collection pipelines.
 
 ---
-### 🛠️ Frameworks, Standards & Tech Stack
 
-**Governance, Risk & Regulatory Frameworks**  
-`ISO/IEC 27001:2022` • `ISO/IEC 27005` • `ISO/IEC 42001` • `COBIT 2019` • `NIST AI RMF 1.0` • `PCI-DSS v4.0` • `GDPR` • `DPDP Act` • `RBI Digital Lending Guidelines`
 ### 🛠️ Frameworks, Standards & Tech Stack
 
 **Governance, Risk & Regulatory Frameworks**  
