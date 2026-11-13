@@ -53,10 +53,16 @@ I enjoy bridging the gap between **regulatory frameworks and real-world engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/arohi-s/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roaworkmail@gmail.com) 
 
 
-### 📊 GitHub Stats:
-### ![](https://github-readme-stats.vercel.app/api?username=r0aruLess&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-### ![](https://nirzak-streak-stats.vercel.app/?user=r0aruLess&theme=dark&hide_border=false)<br/>
-### ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r0aruLess&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Arohi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+</p>
 
 ### 🏆 GitHub Trophies
 ### ![](https://github-profile-trophy.vercel.app/?username=r0aruLess&theme=radical&no-frame=false&no-bg=true&margin-w=4)
